@@ -26,6 +26,8 @@ An interactive Excel dashboard analyzing customer purchase behavior with busines
 
 ## 📷 Dashboard Preview
 ![Dashboard]"C:\Users\hp\OneDrive\Desktop\Excel Customer Behavious Analysis projt\screenshots\dashboard_view.png".
+Uploaded all the data and all the work over Drive due to size restriction over Github . You can check my complete work by availing the link given below:
+https://docs.google.com/spreadsheets/d/1TUugSOCgzixkHElySJJD5TLQeaDPKi6i/edit?usp=drive_link&ouid=104542905618353308752&rtpof=true&sd=true
 
 ---
 
